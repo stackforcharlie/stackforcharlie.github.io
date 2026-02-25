@@ -20,10 +20,10 @@ The site serves as a central hub for:
 
 | Project | Description |
 |---------|-------------|
-| [telegram-sticker-ai-maker-bot](https://github.com/stackforcharlie/telegram-sticker-ai-maker-bot) | AI sticker pack generator via Telegram |
-| [telegram-see-dance-bot](https://github.com/stackforcharlie/telegram-see-dance-bot) | Image-to-video bot (SeeDance / Dreamina) |
-| [telegram-dreamina-ai-bot](https://github.com/stackforcharlie/telegram-dreamina-ai-bot) | Text/image-to-video via Dreamina AI |
-| [telegram-iraq-etutor-bot](https://github.com/stackforcharlie/telegram-iraq-etutor-bot) | E-tutor bot for Iraqi students |
+| [telegram-sticker-ai-maker-bot](https://stackforcharlie.github.io/telegram-sticker-ai-maker-bot) | AI sticker pack generator via Telegram |
+| [telegram-see-dance-bot](https://stackforcharlie.github.io/telegram-see-dance-bot) | Image-to-video bot (SeeDance / Dreamina) |
+| [telegram-dreamina-ai-bot](https://stackforcharlie.github.io/telegram-dreamina-ai-bot) | Text/image-to-video via Dreamina AI |
+| [telegram-iraq-etutor-bot](https://stackforcharlie.github.io/telegram-iraq-etutor-bot) | E-tutor bot for Iraqi students |
 
 ---
 
