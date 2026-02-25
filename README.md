@@ -2,7 +2,7 @@
 
 > Practical bots and AI agents for everyday life and small businesses.
 
-This is the source for [stackforcharlie.github.io](https://stackforcharlie.github.io) — a personal site showcasing bots, AI agents, and chat automation tools built by [@stackforcharlie](https://github.com/stackforcharlie).
+A personal site showcasing bots, AI agents, and chat automation tools built by [@stackforcharlie](https://github.com/stackforcharlie).
 
 ---
 
