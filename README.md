@@ -1,5 +1,3 @@
-# stackforcharlie.github.io
-
 > Practical bots and AI agents for everyday life and small businesses.
 
 A personal site showcasing bots, AI agents, and chat automation tools built by [@stackforcharlie](https://github.com/stackforcharlie).
@@ -18,12 +16,12 @@ The site serves as a central hub for:
 
 ## 📦 Projects Covered
 
-| Project | Description |
-|---------|-------------|
-| [telegram-sticker-ai-maker-bot](https://stackforcharlie.github.io/telegram-sticker-ai-maker-bot) | AI sticker pack generator via Telegram |
-| [telegram-see-dance-bot](https://stackforcharlie.github.io/telegram-see-dance-bot) | Image-to-video bot (SeeDance / Dreamina) |
-| [telegram-dreamina-ai-bot](https://stackforcharlie.github.io/telegram-dreamina-ai-bot) | Text/image-to-video via Dreamina AI |
-| [telegram-iraq-etutor-bot](https://stackforcharlie.github.io/telegram-iraq-etutor-bot) | E-tutor bot for Iraqi students |
+| Project | Description |Repo|
+|---------|-------------|----|
+| [telegram-sticker-ai-maker-bot](https://stackforcharlie.github.io/telegram-sticker-ai-maker-bot) | AI sticker pack generator via Telegram |[Repo](https://github.com/stackforcharlie/telegram-sticker-ai-maker-bot)|
+| [telegram-see-dance-bot](https://stackforcharlie.github.io/telegram-see-dance-bot) | Image-to-video bot (SeeDance / Dreamina) |[Repo](https://github.com/stackforcharlie/telegram-see-dance-bot)|
+| [telegram-dreamina-ai-bot](https://stackforcharlie.github.io/telegram-dreamina-ai-bot) | Text/image-to-video via Dreamina AI |[Repo](https://github.com/stackforcharlie/telegram-dreamina-ai-bot)|
+| [telegram-iraq-etutor-bot](https://stackforcharlie.github.io/telegram-iraq-etutor-bot) | E-tutor bot for Iraqi students |[Repo](https://github.com/stackforcharlie/telegram-iraq-etutor-bot)|
 
 ---
 
